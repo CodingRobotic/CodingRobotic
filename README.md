@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Ömer Cihan Demir
 
-<!--
-**CodingRobotic/CodingRobotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bursa Teknik Üniversitesi öğrencisiyim.  
+🤖 BTÜ Makine Teknolojileri Robot ve Otomasyon Topluluğu'nda aktif olarak görev alıyor, projelerde yazılım geliştiriyorum.  
+🚘 Otonom sistemler, görüntü işleme, gömülü sistemler ve ROS ile ilgileniyorum.  
+👨‍🏫 Topluluk bünyesinde **otonom sistemler eğitimi** veriyor ve yüz takibi yapan robotlar geliştiriyorum.  
+🧠 Yazılım geliştirmeyi, öğrenmeyi ve öğrendiklerimi paylaşmayı çok seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 İlgi Alanlarım
+
+- Robotik Sistemler  
+- Görüntü İşleme (OpenCV, YOLO)  
+- Gömülü Sistemler (Raspberry Pi, Arduino)  
+- ROS (Robot Operating System)  
+- Python & C++  
+- Otonom Kara Araçları (UGV)
+
+---
+
+
