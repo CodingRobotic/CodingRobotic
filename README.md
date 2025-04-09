@@ -1,10 +1,8 @@
 # 👋 Merhaba! Ben Ömer Cihan Demir
 
-🎓 Bursa Teknik Üniversitesi öğrencisiyim.  
+🎓 Bursa Teknik Üniversitesi Mekatronik Mühendisi öğrencisiyim.  
 🤖 BTÜ Makine Teknolojileri Robot ve Otomasyon Topluluğu'nda aktif olarak görev alıyor, projelerde yazılım geliştiriyorum.  
 🚘 Otonom sistemler, görüntü işleme, gömülü sistemler ve ROS ile ilgileniyorum.  
-👨‍🏫 Topluluk bünyesinde **otonom sistemler eğitimi** veriyor ve yüz takibi yapan robotlar geliştiriyorum.  
-🧠 Yazılım geliştirmeyi, öğrenmeyi ve öğrendiklerimi paylaşmayı çok seviyorum.
 
 ---
 
